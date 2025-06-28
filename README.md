@@ -81,7 +81,7 @@ pip install -r requirements.txt
 python assign_6.py
 ```
 
-## 🛠 Dependencies
+##  Dependencies
 
 - Python 3.10+
 - pandas
